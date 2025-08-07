@@ -10,5 +10,12 @@
   },
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.7"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.8",
+    "nodemon": "^3.1.10"
+  }
 }
